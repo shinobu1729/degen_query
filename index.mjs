@@ -57,6 +57,9 @@ function sleep(ms) {
   try {
     const beacons = await getAllBeacons();
     await writeBeaconsToFile(beacons, "beacons.json");
+
+    const simplifiedBeacons = beacons.map((beacon) => ({ address: beacon.address }));
+    await writeBeaconsToFile(simplifiedBeacons, "simplifiedBeacons.json");
   } catch (error) {
     console.error("Failed to fetch all beacons:", error);
   }
