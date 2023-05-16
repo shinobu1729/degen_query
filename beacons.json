@@ -7,11 +7,18 @@
     "updatedAt": "2023-03-03T13:59:05Z"
   },
   {
+    "address": "0xc8d46eb7881975f9ae15216feeba2ff58e55803c",
+    "primaryTraits": {
+      "degen_score": "1734"
+    },
+    "updatedAt": "2023-01-26T22:13:05Z"
+  },
+  {
     "address": "0xee5ce06accce11bc77c5a93723c8032d9108f22d",
     "primaryTraits": {
       "degen_score": "936"
     },
-    "updatedAt": "2023-03-06T18:39:53Z"
+    "updatedAt": "2023-05-10T16:33:40Z"
   },
   {
     "address": "0x1c3354d276b49fe8941a09b822a9100d50e88727",
@@ -210,18 +217,18 @@
     "updatedAt": "2023-03-03T11:26:46Z"
   },
   {
-    "address": "0x0bed5daf7070108bd289c79ff4cfea144c986c3f",
-    "primaryTraits": {
-      "degen_score": "708"
-    },
-    "updatedAt": "2023-03-03T20:02:03Z"
-  },
-  {
     "address": "0xbdfa4f4492dd7b7cf211209c4791af8d52bf5c50",
     "primaryTraits": {
       "degen_score": "3018"
     },
     "updatedAt": "2023-03-03T14:36:07Z"
+  },
+  {
+    "address": "0x0bed5daf7070108bd289c79ff4cfea144c986c3f",
+    "primaryTraits": {
+      "degen_score": "708"
+    },
+    "updatedAt": "2023-03-03T20:02:03Z"
   },
   {
     "address": "0x99222201f28e82c399f1bc41c046c7e4501bd1a0",
@@ -233,9 +240,9 @@
   {
     "address": "0xb941f9b7566e7108332a9ec187d222a1cc05e422",
     "primaryTraits": {
-      "degen_score": "1075"
+      "degen_score": "1015"
     },
-    "updatedAt": "2023-03-07T15:10:42Z"
+    "updatedAt": "2023-05-10T14:37:14Z"
   },
   {
     "address": "0x11d67fa925877813b744abc0917900c2b1d6eb81",
@@ -264,6 +271,13 @@
       "degen_score": "2642"
     },
     "updatedAt": "2023-03-07T22:10:51Z"
+  },
+  {
+    "address": "0x2ecc650e73d984db98c2d239108d2931bdab7028",
+    "primaryTraits": {
+      "degen_score": "753"
+    },
+    "updatedAt": "2023-01-26T16:17:20Z"
   },
   {
     "address": "0x5d47e5d242a8f66a6286b0a2353868875f5d6068",
@@ -326,7 +340,7 @@
     "primaryTraits": {
       "degen_score": "1606"
     },
-    "updatedAt": "2023-03-08T13:28:33Z"
+    "updatedAt": "2023-05-13T03:45:56Z"
   },
   {
     "address": "0xe7449d1590d8f91bf9d79f845627ea3bec840483",
@@ -602,6 +616,13 @@
     "updatedAt": "2023-03-07T17:14:51Z"
   },
   {
+    "address": "0x14e56cf9e6257475f9b6310adc98865fc24d6504",
+    "primaryTraits": {
+      "degen_score": "1141"
+    },
+    "updatedAt": "2023-05-02T15:07:54Z"
+  },
+  {
     "address": "0xe5c80a7963c0d8f4ab9c0bb8d854e47594cf9394",
     "primaryTraits": {
       "degen_score": "736"
@@ -634,7 +655,7 @@
     "primaryTraits": {
       "degen_score": "1070"
     },
-    "updatedAt": "2023-03-03T12:21:41Z"
+    "updatedAt": "2023-05-08T06:45:17Z"
   },
   {
     "address": "0x70e7a6621f4cb3c3e073d0539899f49fc88424c0",
@@ -1211,18 +1232,18 @@
     "updatedAt": "2023-04-11T18:24:46Z"
   },
   {
-    "address": "0x81d98c8fda0410ee3e9d7586cb949cd19fa4cf38",
-    "primaryTraits": {
-      "degen_score": "903"
-    },
-    "updatedAt": "2023-03-01T17:37:57Z"
-  },
-  {
     "address": "0x537037c5ae805b9d4cecab5ee07f12a8e59a15b2",
     "primaryTraits": {
       "degen_score": "2476"
     },
     "updatedAt": "2023-03-03T14:10:03Z"
+  },
+  {
+    "address": "0x81d98c8fda0410ee3e9d7586cb949cd19fa4cf38",
+    "primaryTraits": {
+      "degen_score": "903"
+    },
+    "updatedAt": "2023-03-01T17:37:57Z"
   },
   {
     "address": "0x61fd0d043d519f5a2bd05785000f30db96809429",
@@ -1360,9 +1381,9 @@
   {
     "address": "0xf9107317b0ff77ed5b7adea15e50514a3564002b",
     "primaryTraits": {
-      "degen_score": "1973"
+      "degen_score": "1978"
     },
-    "updatedAt": "2023-03-04T00:14:02Z"
+    "updatedAt": "2023-05-13T20:39:05Z"
   },
   {
     "address": "0xc0a7aba6031d05b1f28c101ffdb1396021a765d6",
@@ -1405,6 +1426,13 @@
       "degen_score": "724"
     },
     "updatedAt": "2023-04-06T12:55:25Z"
+  },
+  {
+    "address": "0x68b53aa18d1b8437b7cd9524040c776e2261e06d",
+    "primaryTraits": {
+      "degen_score": "1670"
+    },
+    "updatedAt": "2023-05-08T16:43:27Z"
   },
   {
     "address": "0xdda42f12b8b2ccc6717c053a2b772bad24b08cbd",
@@ -1491,6 +1519,13 @@
     "updatedAt": "2023-03-03T12:27:32Z"
   },
   {
+    "address": "0xf5fe364d18f4a5a53badce9a046ba74cfc97f6fb",
+    "primaryTraits": {
+      "degen_score": "1240"
+    },
+    "updatedAt": "2023-05-04T15:11:26Z"
+  },
+  {
     "address": "0x17ac83fa732eacb07d57c4767eb3aed2928c558c",
     "primaryTraits": {
       "degen_score": "802"
@@ -1549,9 +1584,9 @@
   {
     "address": "0x21d79c2be4ab3de2802a60da66f86d497d06102b",
     "primaryTraits": {
-      "degen_score": "1271"
+      "degen_score": "1232"
     },
-    "updatedAt": "2023-03-04T08:14:36Z"
+    "updatedAt": "2023-05-15T18:06:16Z"
   },
   {
     "address": "0x7f85cf44e446a4b1aace2a28774e88cd6d4e3441",
@@ -1619,9 +1654,9 @@
   {
     "address": "0x9d156bc7c8768294510a4a41883d5a4eb15b15e3",
     "primaryTraits": {
-      "degen_score": "845"
+      "degen_score": "837"
     },
-    "updatedAt": "2023-03-03T13:39:08Z"
+    "updatedAt": "2023-05-02T20:51:17Z"
   },
   {
     "address": "0x3df10334531a3c86590245e12be0104dd3459159",
@@ -1883,6 +1918,13 @@
     "updatedAt": "2023-03-20T01:59:28Z"
   },
   {
+    "address": "0xb0110270f774098d9103a0241d5ba91beb3e1684",
+    "primaryTraits": {
+      "degen_score": "758"
+    },
+    "updatedAt": "2023-05-15T10:04:51Z"
+  },
+  {
     "address": "0x21c8dc59f2e9a11c4c1a0c310641968132c6b1be",
     "primaryTraits": {
       "degen_score": "1874"
@@ -2142,6 +2184,13 @@
     "updatedAt": "2023-03-03T14:40:03Z"
   },
   {
+    "address": "0x79f1bc5c5ee691206fc55c66402f938dd1e96421",
+    "primaryTraits": {
+      "degen_score": "813"
+    },
+    "updatedAt": "2023-05-03T06:15:16Z"
+  },
+  {
     "address": "0x90abcf1598ed3077861bcfb3b11efcd1d7277223",
     "primaryTraits": {
       "degen_score": "1641"
@@ -2207,9 +2256,9 @@
   {
     "address": "0x7a6cbd7a4562021fbdc0ac328c6c572fd703087a",
     "primaryTraits": {
-      "degen_score": "718"
+      "degen_score": "724"
     },
-    "updatedAt": "2023-03-03T13:44:52Z"
+    "updatedAt": "2023-05-14T13:19:18Z"
   },
   {
     "address": "0x9a482dee57cc9e08313646d356dc36a7ccadad44",
@@ -4613,6 +4662,13 @@
     "updatedAt": "2023-03-05T09:57:07Z"
   },
   {
+    "address": "0x9d21616d61c5897269bc3dfdc071fa94f8aaf7ee",
+    "primaryTraits": {
+      "degen_score": "724"
+    },
+    "updatedAt": "2023-05-15T07:00:46Z"
+  },
+  {
     "address": "0xd71c552a4954673a30893bf1db0a77f1afa1accd",
     "primaryTraits": {
       "degen_score": "851"
@@ -4783,9 +4839,9 @@
   {
     "address": "0x5a27d268e830655e908a0a2c3b24f572695af5e8",
     "primaryTraits": {
-      "degen_score": "1275"
+      "degen_score": "1314"
     },
-    "updatedAt": "2023-04-13T10:47:21Z"
+    "updatedAt": "2023-05-06T06:02:41Z"
   },
   {
     "address": "0xf58d15f9913829e1b61e92399dc77b082e6825a1",
@@ -5483,9 +5539,9 @@
   {
     "address": "0x63eeb58ead8bcd262b2ffde287b36a3533be89f6",
     "primaryTraits": {
-      "degen_score": "779"
+      "degen_score": "768"
     },
-    "updatedAt": "2023-03-04T22:27:55Z"
+    "updatedAt": "2023-05-07T19:14:13Z"
   },
   {
     "address": "0x223ff7cdda3c230a28b684dd51c15ef250086e53",
@@ -5838,6 +5894,13 @@
     "updatedAt": "2023-02-22T14:40:55Z"
   },
   {
+    "address": "0xf8926a177273202755f9fa930c96285e612375ac",
+    "primaryTraits": {
+      "degen_score": "709"
+    },
+    "updatedAt": "2023-05-14T04:37:26Z"
+  },
+  {
     "address": "0xb74e5e06f50fa9e4ef645efdad9d996d33cc2d9d",
     "primaryTraits": {
       "degen_score": "1569"
@@ -5875,9 +5938,9 @@
   {
     "address": "0xc6571c2fb66825f13b7751b1c334810d397618eb",
     "primaryTraits": {
-      "degen_score": "843"
+      "degen_score": "847"
     },
-    "updatedAt": "2023-03-23T17:18:39Z"
+    "updatedAt": "2023-05-10T13:44:42Z"
   },
   {
     "address": "0x8bc8b4e4921101bcc56ec084b906069b73de7276",
@@ -5927,6 +5990,34 @@
       "degen_score": "710"
     },
     "updatedAt": "2023-02-06T05:13:25Z"
+  },
+  {
+    "address": "0xdc3b2dce95ebd1e7c18eaa37780d10d240146660",
+    "primaryTraits": {
+      "degen_score": "1212"
+    },
+    "updatedAt": "2023-01-26T15:07:19Z"
+  },
+  {
+    "address": "0x60f2ee9119aa5d46883a05887ba830d752b96896",
+    "primaryTraits": {
+      "degen_score": "723"
+    },
+    "updatedAt": "2023-01-26T18:32:08Z"
+  },
+  {
+    "address": "0xad63e4d4be2229b080d20311c1402a2e45cf7e75",
+    "primaryTraits": {
+      "degen_score": "870"
+    },
+    "updatedAt": "2023-01-26T19:01:58Z"
+  },
+  {
+    "address": "0xae66f023f3bd067f2c58e25b225eded462f9c99c",
+    "primaryTraits": {
+      "degen_score": "708"
+    },
+    "updatedAt": "2023-01-26T20:53:53Z"
   },
   {
     "address": "0x718225832e5bde18cc93e418e091ea43fbe05e3d",
@@ -10126,7 +10217,7 @@
     "primaryTraits": {
       "degen_score": "1219"
     },
-    "updatedAt": "2023-04-24T11:51:38Z"
+    "updatedAt": "2023-05-08T07:16:20Z"
   },
   {
     "address": "0x00bc5b61042fa8375dba651a2309bc5595302ec1",
@@ -10169,5 +10260,26 @@
       "degen_score": "754"
     },
     "updatedAt": "2023-05-01T18:48:09Z"
+  },
+  {
+    "address": "0xe120ed22a0cd12d5de6122aa7d5b6d93ac218b49",
+    "primaryTraits": {
+      "degen_score": "740"
+    },
+    "updatedAt": "2023-05-09T14:47:45Z"
+  },
+  {
+    "address": "0x019ed608dd806b80193942f2a960e7ac8abb2ee3",
+    "primaryTraits": {
+      "degen_score": "718"
+    },
+    "updatedAt": "2023-05-12T09:56:06Z"
+  },
+  {
+    "address": "0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9",
+    "primaryTraits": {
+      "degen_score": "917"
+    },
+    "updatedAt": "2023-05-15T06:02:00Z"
   }
 ]

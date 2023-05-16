@@ -26,7 +26,7 @@ async function getAllBeacons() {
 
   do {
     const response = await fetchBeacons(nextCursor);
-    const recentBeacons = filterRecentBeacons(response.beacons, 95);
+    const recentBeacons = filterRecentBeacons(response.beacons, 110);
     allBeacons = allBeacons.concat(recentBeacons);
     nextCursor = response.meta.nextCursor;
     console.log("nextCursor", nextCursor);
